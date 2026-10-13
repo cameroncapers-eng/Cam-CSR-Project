@@ -77,10 +77,22 @@ verification procedures, corrections, and research decisions.
 ## CLAIM-001
 
 **Claim:**  
-
+Uniqlo and lego Legal investigations
 **Source:** SOURCE-001
-
+ChatGPT
 **Evidence Location:**  
+Lego case 1. What happened? An employee filed a complaint alleging retaliation, coercive statements, and restrictive workplace rules.
+Who investigated? The U.S. National Labor Relations Board (NLRB).
+What was decided? The case record lists a dismissal letter in May 2024 and a bilateral settlement agreement in August 2024.
+What happened afterward? The case was closed. The public summary does not establish that every allegation was proven.
+Source: NLRB case 31-CA-305299
+
+Uniqlo case 1. What happened? Environmental Health Advocates alleged that UNIQLO receipts contained bisphenol S (BPS) without a required California Proposition 65 warning.
+Who investigated? The notice was filed by Environmental Health Advocates, with records maintained by the California Attorney General's Office. This was a private enforcement matter.
+What was decided? Your research records a settlement on June 12, 2026.
+What happened afterward? The recorded settlement lists reformulation requirements and total payments of $12,500, including a $2,000 civil penalty, fees and costs, and a payment in lieu of a penalty.
+Source: California Attorney General's record
+
 
 **Assessment:**  
 SUPPORTED / PARTIALLY SUPPORTED / CONTRADICTED / INSUFFICIENT EVIDENCE / UNVERIFIED
