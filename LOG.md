@@ -78,9 +78,11 @@ verification procedures, corrections, and research decisions.
 
 **Claim:**  
 Uniqlo and lego Legal investigations
-**Source:** SOURCE-001
+**Source:** 
 ChatGPT
 **Evidence Location:**  
+
+**Assessment:**  
 Lego case 1. What happened? An employee filed a complaint alleging retaliation, coercive statements, and restrictive workplace rules.
 Who investigated? The U.S. National Labor Relations Board (NLRB).
 What was decided? The case record lists a dismissal letter in May 2024 and a bilateral settlement agreement in August 2024.
@@ -92,11 +94,6 @@ Who investigated? The notice was filed by Environmental Health Advocates, with r
 What was decided? Your research records a settlement on June 12, 2026.
 What happened afterward? The recorded settlement lists reformulation requirements and total payments of $12,500, including a $2,000 civil penalty, fees and costs, and a payment in lieu of a penalty.
 Source: California Attorney General's record
-
-
-**Assessment:**  
-SUPPORTED / PARTIALLY SUPPORTED / CONTRADICTED / INSUFFICIENT EVIDENCE / UNVERIFIED
-
 **Confidence:**  
 High / Medium / Low
 
