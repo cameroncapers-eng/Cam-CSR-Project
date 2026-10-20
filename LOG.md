@@ -50,17 +50,13 @@ verification procedures, corrections, and research decisions.
 **Authors:**  
 **Publication:**  
 **Year:**  
-**DOI:**  
 
-**Found Via:**  
 
-**Publisher:**  
+  
 
-**DOI Verified:** Yes / No
 
-**Publisher Verified:** Yes / No
 
-**Citation Verified:** Yes / No
+
 
 **Notes:**  
 
