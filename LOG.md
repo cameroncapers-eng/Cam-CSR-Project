@@ -16,13 +16,7 @@ verification procedures, corrections, and research decisions.
 
 | Tool | Purpose | Model/Version | Date Used |
 |---|---|---|---|
-| ChatGPT | Research / analysis | | | GPT-6, an OpenAI reasoning model.
-| Perplexity | Web research | | |
-| Google Scholar | Academic search | | |
-| Consensus | Evidence search | | |
-| scite | Citation verification | | |
-| Crossref | DOI verification | | |
-| Zotero | Citation management | | |
+| ChatGPT | Research / analysis | | | 
 
 ---
 
