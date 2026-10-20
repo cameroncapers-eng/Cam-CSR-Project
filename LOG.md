@@ -97,7 +97,7 @@ High / Medium / Low
 
 **Citation Provided By:**  
 
-**Citation:**  
+**Citation:**  Uniqlo claim - California Attorney General's record/ Lego Claim/ Nation Labor Relations board.
 
 **DOI:**  
 
