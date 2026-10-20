@@ -15,7 +15,7 @@ verification procedures, corrections, and research decisions.
 ## AI Tools
 
 | Tool | Purpose | Model/Version | Date Used |
-|---|---|---|---| GPT-6, an OpenAI reasoning model.
+|---|---|---|---| 
 | ChatGPT | Research / analysis | | | 
 
 ---
